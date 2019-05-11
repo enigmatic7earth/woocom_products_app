@@ -1,4 +1,4 @@
-# woocom_products_app
+# ![alt text](https://github.com/enigmatic7earth/woocom_products_app/blob/master/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-72.png "The GeekyAnts: E-Commerce app using Flutter") woocom_products_app
 
 E-Commerce app using Flutter, following articles by ![alt text](https://cdn-images-1.medium.com/fit/c/36/36/1*rSGF7OBUjv3Ac2kP_cSjtA.png "The GeekyAnts") [The GeekyAnts](https://blog.geekyants.com/) on medium.com
 
