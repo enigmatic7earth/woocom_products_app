@@ -30,8 +30,8 @@ Articles:
 
 
 
-
-#### Getting started with Flutter?
+***
+## ![alt text](https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png "Google Flutter") Getting started with Flutter?
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
